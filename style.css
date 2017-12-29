@@ -25,6 +25,7 @@ body {
     padding: 0;
     display: flex;
     justify-content: space-around;
+    color: white;
 }
 
 p:hover, a:hover {
